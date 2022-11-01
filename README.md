@@ -1,2 +1,2 @@
-# Привіт, мене звати Дарʼя і це моє резюме)
-Посилання на GitHubPages: https://ledaidai.github.io/intellias-test-task
+# Привіт, мене звати Дарʼя і це моє резюме:
+посилання на GitHubPages: https://ledaidai.github.io/cv-skubii-daria
